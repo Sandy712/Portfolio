@@ -68,7 +68,7 @@ html {
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: rgba(222, 130, 235, 0.911);
+    background: #a24dd386;
     border-radius: 12px;
   }
   

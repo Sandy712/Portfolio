@@ -27,7 +27,7 @@ function Projects() {
               title="TreasurEase"
               description="Build a dynamic e-commerce website with ReactJS, enabling users to register, log in, and shop. Implement a seamless cart system, allowing users to add, remove, and purchase products. Enhance the shopping experience with product filtering, providing quick access to desired items."
               ghLink="https://github.com/Sandy712/Ecommerce_website"
-              demoLink="/"
+              demoLink="https://treasurease-ecommerce.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
